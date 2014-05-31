@@ -1,0 +1,7 @@
+c:\users\desergo\documents\visual studio 2012\Projects\Greenny\Greenny\bin\Debug\Greenny.exe.config
+c:\users\desergo\documents\visual studio 2012\Projects\Greenny\Greenny\obj\Debug\Greenny.csprojResolveAssemblyReference.cache
+c:\users\desergo\documents\visual studio 2012\Projects\Greenny\Greenny\bin\Debug\Greenny.exe
+c:\users\desergo\documents\visual studio 2012\Projects\Greenny\Greenny\bin\Debug\Greenny.pdb
+c:\users\desergo\documents\visual studio 2012\Projects\Greenny\Greenny\obj\Debug\Greenny.exe
+c:\users\desergo\documents\visual studio 2012\Projects\Greenny\Greenny\obj\Debug\Greenny.pdb
+c:\users\desergo\documents\visual studio 2012\Projects\Greenny\Greenny\bin\Debug\SQLite.NET.dll
